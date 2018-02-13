@@ -2,3 +2,8 @@ C:\Users\Lex\Desktop\C#\Ejericio1\Ejericio1\bin\Debug\Ejericio1.exe
 C:\Users\Lex\Desktop\C#\Ejericio1\Ejericio1\bin\Debug\Ejericio1.pdb
 C:\Users\Lex\Desktop\C#\Ejericio1\Ejericio1\obj\x86\Debug\Ejericio1.exe
 C:\Users\Lex\Desktop\C#\Ejericio1\Ejericio1\obj\x86\Debug\Ejericio1.pdb
+C:\Users\Lex\Desktop\Program\C#\Ejercicios\Ejericio1\bin\Debug\Ejericio1.exe
+C:\Users\Lex\Desktop\Program\C#\Ejercicios\Ejericio1\bin\Debug\Ejericio1.pdb
+C:\Users\Lex\Desktop\Program\C#\Ejercicios\Ejericio1\obj\x86\Debug\Ejericio1.csproj.CoreCompileInputs.cache
+C:\Users\Lex\Desktop\Program\C#\Ejercicios\Ejericio1\obj\x86\Debug\Ejericio1.exe
+C:\Users\Lex\Desktop\Program\C#\Ejercicios\Ejericio1\obj\x86\Debug\Ejericio1.pdb

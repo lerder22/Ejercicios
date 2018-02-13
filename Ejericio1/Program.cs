@@ -12,6 +12,8 @@ namespace Ejericio1
             int a=1,b=2,c=3;
             int d = a + b + c;
             Console.WriteLine(d);
+            Class1 classe1;
+           
             Console.ReadKey();
         }
     }
